@@ -7,4 +7,4 @@ Instruction/files for NeuVector Deployment
 4. Install NeuVector
 5. Added practices to learn NeuVector
 
-#This information was copied from NeuVector Rodeo Webinar
+#This information was inspired from NeuVector Rodeo Webinar
