@@ -6,8 +6,8 @@ cve:
     replicas: 1
 manager:
   ingress:
-    enabled: true
-    host: neuvector.3.17.110.162.sslip.io
+    enabled: false
+    host:
     annotations:
       cert-manager.io/cluster-issuer: selfsigned-cluster-issuer
       nginx.ingress.kubernetes.io/backend-protocol: "HTTPS"
